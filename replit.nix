@@ -7,7 +7,7 @@
       # Needed for pandas / numpy
       pkgs.stdenv.cc.cc.lib
       pkgs.zlib
-      # Needed for pygame
+      # Needed for pygame 
       pkgs.glib
       # Needed for matplotlib
       pkgs.xorg.libX11
